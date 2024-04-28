@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadTurkmen
 - 👀 I’m interested in coding and learning new things
-- 🌱 I’m currently learning JavaScript React.js 
+- 🌱 I’m currently learning  React.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
