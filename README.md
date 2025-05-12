@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MuhammadTurkmen
+- 👋 Hi, I’m Muhammad Turkmen, I am a frontned web developer with three years of experience in Reactjs, HTML, Nextjs, TailwindCSS, JavaSctip and CSS.
 - 👀 I’m interested in coding and learning new things
-- 🌱 I’m currently learning  React.js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Backend to become a full stack developer.
+- 📫 You can reach me through my email muhammadturkmen204@gmail.com
 
 ## 📊 Stats
 
